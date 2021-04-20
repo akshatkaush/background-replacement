@@ -1,5 +1,5 @@
 # Change-Background
-Change background of image using semantic segmentation
+this pipeline uses hrnet for creating segmentation masks of the person and then crop that image according to the mask, then it keeps the cropped image over the background image provided. As evident the programs requires two input in case of a background change. You can also leave the second image, in this case pipeline works as a background removal code.
 
 ## Running script
 
