@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1VNYZ1X5bnIZFIVIgNi9JwqCNIvioxexe/view?usp=shari
 
 ### Run 
 
-python main.py --image --bg_image --weights --debug --output_dir
+``` python main.py --image --bg_image --weights --debug --output_dir ```
 
 
 ### Input 
